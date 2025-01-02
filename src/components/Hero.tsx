@@ -23,7 +23,7 @@ const Hero = () => {
       </div>
       <div className="relative rounded-3xl overflow-hidden">
         <img
-          src="/lovable-uploads/00bfe428-0804-4f27-80d7-24fd263df074.png"
+          src="/office_meeting2.jpg"
           alt="Digital Marketing Team"
           className="w-full h-[500px] object-cover"
         />

@@ -10,7 +10,7 @@ const OurWork = () => {
         "Boosted organic traffic by 50% for TechCorp through carefully targeted keyword strategies and comprehensive on-page optimization, driving significant growth in search engine visibility.",
       stat: "+50%",
       statLabel: "Organic traffic",
-      image: "/lovable-uploads/fc8f3d7b-cdbb-4395-8cba-1f01f0e59ebd.png",
+      image: "/img1.jpg",
       imagePosition: "right",
     },
     {
@@ -20,7 +20,7 @@ const OurWork = () => {
         "Increased follower engagement for FashionWave by 75% through the implementation of creative content strategies and interactive social media campaigns, significantly enhancing brand interaction and customer connection across all platforms.",
       stat: "+75%",
       statLabel: "Follower engagement",
-      image: "/lovable-uploads/a5fdbaaf-4636-43bc-b817-f2633537d5c7.png",
+      image: "/img2.jpg",
       imagePosition: "left",
     },
     {
@@ -30,7 +30,7 @@ const OurWork = () => {
         "Revamped UrbanNest's brand identity, leading to a 60% increase in customer recognition and loyalty. The refreshed image strengthened market presence and deepened connections with the target audience.",
       stat: "+50%",
       statLabel: "Growth in customer",
-      image: "/lovable-uploads/a5fdbaaf-4636-43bc-b817-f2633537d5c7.png",
+      image: "/img3.jpg",
       imagePosition: "right",
     },
   ];
